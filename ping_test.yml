@@ -1,0 +1,8 @@
+---
+- name: This is a playbook to test connectivity to Tower
+  hosts: all
+  become: true
+  
+  tasks:
+  - name: Test connection with ping
+    ping:
