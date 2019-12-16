@@ -6,4 +6,4 @@
   
   tasks:
     debg:
-      msg: "This is version v.1.0.0 of config_item_1_task.yml"
+      msg: "This is version v.2.0.0 of config_item_1_task.yml"
